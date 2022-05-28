@@ -1,0 +1,45 @@
+body {
+    background-image:url(https://static.vecteezy.com/system/resources/previews/006/235/474/original/abstract-black-gradient-background-with-futuristic-line-gold-vector.jpg);
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 360px;
+    height: 310px;
+    border-radius: 10px;
+}
+
+#ci {
+   height: 60px;
+   width: 170px;
+   border-radius: 10px;
+   background-color: coral;
+   cursor: pointer;
+   font-size: 20px;
+}
+
+#ci:hover
+{
+    background-image: linear-gradient(chartreuse, lavender, pink, orange);
+}
+
+#ii:hover
+{
+    background-image: linear-gradient(chartreuse, lavender, pink, orange);
+}
+
+#ii {
+    font-size: 20px;
+    height: 60px ;
+    width: 170px;
+ background-color: coral;
+ border-radius: 10px;
+ cursor: pointer;
+ }
+
+ #b:hover
+{
+    background-image: linear-gradient(green, blue, lavender, yellow,orange,pink);
+}
+
+ 
